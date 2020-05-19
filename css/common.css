@@ -1,0 +1,16 @@
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#nav-brand {
+    margin: auto 1rem auto auto;
+}
+
+#content-area {
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+#c-brand {
+    letter-spacing: 3px;
+}
